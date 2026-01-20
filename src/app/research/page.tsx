@@ -10,7 +10,7 @@ import {
 } from "firebase/firestore";
 import { signInAnonymously } from "firebase/auth";
 
-import { db, auth } from "@/app/lib/firebase";
+import { db, auth } from "@/lib/firebase";
 
 type SessionRecord = {
   id: string;

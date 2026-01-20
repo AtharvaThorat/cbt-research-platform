@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import { collection, addDoc } from "firebase/firestore";
 import { signInAnonymously } from "firebase/auth";
-import { db, auth } from "@/app/lib/firebase";
+import { db, auth } from "@/lib/firebase";
 
 /**
  * Session data (stable & dashboard-compatible)
