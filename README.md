@@ -1,5 +1,5 @@
 
-# CBT Engagement Research Platform  
+# Cognitive Behavioral Therapy (CBT) Engagement Research Platform  
 *A Full-Stack Research Prototype for Studying Engagement in CBT Exercises*
 
 ---
